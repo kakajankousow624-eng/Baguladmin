@@ -7,3 +7,4 @@ vless://8e265107-68cc-44e2-a719-aa841730fac4@82.97.250.146:443?mode=multi&securi
 vless://8e265107-68cc-44e2-a719-aa841730fac4@194.36.144.196:443?mode=multi&security=tls&encryption=none&authority=94.mo777mo.store&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=94.mo777mo.store#Taze%205%20%F0%9F%87%B9%F0%9F%87%B2
 vless://8e265107-68cc-44e2-a719-aa841730fac4@212.67.10.224:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=94.aaaa77.ru&fp=chrome&type=xhttp&allowInsecure=0&sni=94.aaaa77.ru#Taze%203%F0%9F%87%B9%F0%9F%87%B2
 vless://8e265107-68cc-44e2-a719-aa841730fac4@163.171.134.20:80?mode=auto&path=%2F&security=none&encryption=none&host=icoud.ru&type=xhttp#Kkk%F0%9F%87%B7%F0%9F%87%BA%E2%9C%85
+vless://8e265107-68cc-44e2-a719-aa841730fac4@82.97.250.146:443?mode=multi&security=tls&encryption=none&alpn=h3&authority=93.gosuslug.store&fp=chrome&allowinsecure=1&type=grpc&serviceName=&sni=93.gosuslug.store#%F0%9F%87%B7%F0%9F%87%BA9%E2%9C%85
